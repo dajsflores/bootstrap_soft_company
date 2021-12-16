@@ -4,4 +4,18 @@
 }
 .tarjeta-item{
     align-items: center;
+    height: 65vh;
+}
+.tarjeta-seccion{
+    background-color: #f2f2f2;
+}
+.tarjeta-boton{
+    background-color: #262626;
+    color: #f2f2f2;
+    border-radius: 10px;
+}
+.tarjeta-boton:hover{
+    background-color: #f2f2f2; 
+    color:#262626;
+    border-color: #262626;
 }
