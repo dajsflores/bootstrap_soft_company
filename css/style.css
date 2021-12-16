@@ -1,19 +1,18 @@
-.tarjeta-icono{
-    width: 75px;
-    height: 75px;
+.tarjeta-seccion{
+    background-color: #f2f2f2;
+    height: 460px;
 }
 .tarjeta-item{
     align-items: center;
-    height: 60vh;
 }
-.tarjeta-seccion{
-    background-color: #f2f2f2;
+.tarjeta-icono{
+    width: 75px;
+    height: 75px;
 }
 .tarjeta-boton{
     background-color: #262626;
     color: #f2f2f2;
     border-radius: 10px;
-    /* margin-bottom: 20px; */
     font-weight: bold;
 }
 .tarjeta-boton:hover{
