@@ -4,7 +4,7 @@
 }
 .tarjeta-item{
     align-items: center;
-    height: 65vh;
+    height: 60vh;
 }
 .tarjeta-seccion{
     background-color: #f2f2f2;
@@ -13,6 +13,8 @@
     background-color: #262626;
     color: #f2f2f2;
     border-radius: 10px;
+    /* margin-bottom: 20px; */
+    font-weight: bold;
 }
 .tarjeta-boton:hover{
     background-color: #f2f2f2; 
